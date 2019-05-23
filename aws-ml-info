@@ -1,0 +1,30 @@
+[Building your own algorithm container]
+https://github.com/awslabs/amazon-sagemaker-examples/blob/master/advanced_functionality/scikit_bring_your_own/scikit_bring_your_own.ipynb
+
+[Brewing up custom ML models on AWS SageMaker]
+https://towardsdatascience.com/brewing-up-custom-ml-models-on-aws-sagemaker-e09b64627722
+
+https://stackoverflow.com/questions/55781509/automate-the-execution-of-a-ipynb-file-in-sagemaker
+
+[Stelligent Blog for Devops]
+https://stelligent.com/blog/
+
+[Call an Amazon SageMaker model endpoint using Amazon API Gateway and AWS Lambda]
+https://aws.amazon.com/blogs/machine-learning/call-an-amazon-sagemaker-model-endpoint-using-amazon-api-gateway-and-aws-lambda/
+
+[AWS Cloudformation-Sagemaker]
+https://github.com/aws-samples/amazon-sagemaker-cloudformation-custom-resource
+
+[AWS Step Functions: a Serverless Orchestrator]
+https://cloudacademy.com/blog/aws-step-functions-a-serverless-orchestrator/
+
+
+[Automated and continuous deployment of Amazon SageMaker models with AWS Step Functions]
+https://awscentral.blogspot.com/2019/01/automated-and-continuous-deployment-of.html
+
+[Orchestrate Machine Learning Workflows with Amazon Sagemaker and AWS Step Functions]
+https://www.youtube.com/watch?v=dNb5jVffzPs&feature=youtu.be 
+
+[Set up a Continuous Deployment Pipeline - Using AWS CodePipeline]
+https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/
+
